@@ -1,4 +1,4 @@
-# Trabajo-Practico-Entregable
+# Trabajo-Practico-IPOO
 
 Materia: Introducción a la Programación Orientada a Objetos
 
